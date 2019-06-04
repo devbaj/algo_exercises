@@ -1,0 +1,11 @@
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\bin\Debug\netcoreapp2.1\romanize.deps.json
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\bin\Debug\netcoreapp2.1\romanize.runtimeconfig.json
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\bin\Debug\netcoreapp2.1\romanize.runtimeconfig.dev.json
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\bin\Debug\netcoreapp2.1\romanize.dll
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\bin\Debug\netcoreapp2.1\romanize.pdb
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\obj\Debug\netcoreapp2.1\romanize.csprojAssemblyReference.cache
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\obj\Debug\netcoreapp2.1\romanize.csproj.CoreCompileInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\obj\Debug\netcoreapp2.1\romanize.AssemblyInfoInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\obj\Debug\netcoreapp2.1\romanize.AssemblyInfo.cs
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\obj\Debug\netcoreapp2.1\romanize.dll
+C:\Users\bjory\Documents\CODING_DOJO\Z_ALGOPRACTICE\romanize\obj\Debug\netcoreapp2.1\romanize.pdb
